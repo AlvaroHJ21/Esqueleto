@@ -10,5 +10,8 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         Toast.makeText(this, "old school", Toast.LENGTH_SHORT).show()
+        Toast.makeText(this, "old school", Toast.LENGTH_SHORT).show()
+        Toast.makeText(this, "old school", Toast.LENGTH_SHORT).show()
+        Toast.makeText(this, "old school", Toast.LENGTH_SHORT).show()
     }
 }
