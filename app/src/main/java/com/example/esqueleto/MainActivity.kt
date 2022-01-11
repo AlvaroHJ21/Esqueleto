@@ -15,5 +15,7 @@ class MainActivity : AppCompatActivity() {
         Toast.makeText(this, "old school", Toast.LENGTH_SHORT).show()
 
         Toast.makeText(this, "F", Toast.LENGTH_SHORT).show()
+
+        Toast.makeText(this, "a ver si es de tu talla", Toast.LENGTH_SHORT).show()
     }
 }
